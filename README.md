@@ -1,9 +1,5 @@
-🔭 Tech-savy FullStack Developer & AI Enthusiast
-
-🌱 Currently exploring Web Development, AI & Cloud Technologies
-
-👯 Open to collaborate on Open Source Projects & Innovative Startups
-
-🤝 Always eage to connect with Developers, Data Analysts & ML Enthusiasts
-
-💬 Ask me about anything here
+🔭 Tech-savvy Full-Stack Developer & AI Enthusiast  
+🌱 Exploring Web Dev, AI, Cloud & Social Innovation  
+👯 Open to OSS collabs & startup projects  
+🤝 Connect with devs, data analysts & ML folks  
+💬 Ask about React, Tailwind, UI/UX or full-stack tips!
